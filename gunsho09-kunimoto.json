@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kunimoto",
  "yomi": "つもりのくにもとしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "津守国基（1023〜1102）",
+  "desc": "住吉社の神主、津守国基の家集。題詠のほか、玉津島姫の夢告げなど神官らしい話を交えた詞書を持つ。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1787,6 +1792,6 @@
   "poems": 154,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
